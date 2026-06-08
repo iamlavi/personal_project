@@ -1,0 +1,15 @@
+# compiled output
+/dist
+/node_modules
+
+# OS
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# env
+.env
+.env.local
+.env.*.local
